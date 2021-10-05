@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "mongoUrl": "mongodb+srv://w1zard:k215IPV5YO7CenB5@fullstack.4ctd3.mongodb.net/MernDataBase?retryWrites=true&w=majority",
+    "jwtSecret": "kostya tugai",
+    "baseUrl": "http://localhost:5000"
+}
+
